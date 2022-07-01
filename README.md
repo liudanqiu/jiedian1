@@ -1,2 +1,2 @@
 # jiedian1
-免费
+free
